@@ -31,7 +31,8 @@
   <a href="https://www.linkedin.com/in/yusuf-bin-qahman-82619716b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100006213047433" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />
   <a href="https://www.hackerrank.com/profile/yusuf711ahmed" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="37" height="25" alt="hackerrank logo"  />
   </a>
